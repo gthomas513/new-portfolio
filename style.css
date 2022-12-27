@@ -1,5 +1,9 @@
-.box {
-    background-color: yellowgreen;
+html {
+    background-color: antiquewhite;
+}
+
+.tabs {
+    background-color: tan;
 }
 
 .home-tab,
@@ -9,4 +13,24 @@
     margin: 2rem;
 }
 
+.image img {
+    width: 25%;
+}
 
+.profilePic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 25%;
+}
+
+.card-content {
+    background-color: tan;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 2px solid black;
+}
