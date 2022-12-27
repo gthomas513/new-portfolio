@@ -34,3 +34,12 @@ html {
     width: 50%;
     border: 2px solid black;
 }
+
+.projectPic1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 50%;
+}
